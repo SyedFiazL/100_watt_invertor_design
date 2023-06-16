@@ -1,0 +1,18 @@
+https://www.digikey.in/en/products/detail/texas-instruments/CD4047BE/67297
+
+CD4047BE
+Digi-Key Part Number
+296-2053-5-ND
+Manufacturer
+Texas Instruments
+Manufacturer Product Number
+CD4047BE
+Supplier	
+Texas Instruments
+Description
+IC MULTIVIBRATOR 80NS 14DIP
+Manufacturer Standard Lead Time
+35 Weeks
+Detailed Description
+Monostable Multivibrator 80 ns 14-PDIP
+

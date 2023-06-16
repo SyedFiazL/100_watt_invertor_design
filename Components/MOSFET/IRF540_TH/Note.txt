@@ -1,0 +1,16 @@
+https://www.digikey.in/en/products/detail/stmicroelectronics/IRF540/603783
+
+IRF540
+Digi-Key Part Number
+497-2758-5-ND
+Manufacturer
+STMicroelectronics
+Manufacturer Product Number
+IRF540
+Supplier	
+STMicroelectronics
+Description
+MOSFET N-CH 100V 22A TO220AB
+Detailed Description
+N-Channel 100 V 22A (Tc) 85W (Tc) Through Hole TO-220
+
